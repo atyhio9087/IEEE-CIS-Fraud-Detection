@@ -3,7 +3,7 @@
 End-to-end fraud risk scoring app (CPU-friendly). Upload transactions (+ optional identity), get risk scores, KPIs, histogram, and export flagged rows.
 
 ## Live Demo
-- Open Streamlit app: https://ieee-cis-fraud-detection-bfiaqoftgr5dqrb2xcajhv.streamlit.app/
+- Open Streamlit app: https://ieee-cis-fraud-detection-3pwswxjxlgvrm4cxu45iow.streamlit.app/
 - Source code: this repo
 
 ## Features
