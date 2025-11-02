@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 1024      # MB (1 GB)
+headless = true
+enableXsrfProtection = true
+
+[theme]
+base = "light"
