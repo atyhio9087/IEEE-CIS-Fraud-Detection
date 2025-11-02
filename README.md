@@ -3,10 +3,6 @@
 A complete **fraud analytics solution** built with Machine Learning and Streamlit.  
 Upload transaction data and instantly visualize risk scores, KPIs, and flagged transactions — powered by a trained **HistGradientBoostingClassifier** on the [IEEE-CIS Fraud Detection dataset](https://www.kaggle.com/c/ieee-fraud-detection).
 
-<p align="center">
-  <img width="437" height="682" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/7c1ea719-f316-489b-a4d0-6148a62410cc" />
-</p>
-
 ---
 
 ## 🚀 Live Demo
@@ -53,7 +49,7 @@ This project demonstrates how **analytics + AI** can identify high-risk transact
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="architecture.png" width="700" alt="System Architecture Diagram">
+  <img width="437" height="682" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/7c1ea719-f316-489b-a4d0-6148a62410cc" />
 </p>
 
 ### **Flow**
